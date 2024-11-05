@@ -1,9 +1,4 @@
 # Student_Database_Management_System
-Here's a professional README draft for your GitHub project:
-
----
-
-# School Management System
 
 Welcome to the **School Management System** project, a comprehensive and interactive Java-based application designed for managing school administration efficiently. This project encompasses features for handling students, teachers, courses, and administrative tasks with a modern, intuitive interface.
 
